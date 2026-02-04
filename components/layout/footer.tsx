@@ -16,15 +16,15 @@ export default function Footer() {
             <div className="space-y-3">
               <div className="flex items-start gap-3">
                 <Mail className="w-5 h-5 mt-1 flex-shrink-0" />
-                <span className="text-sm">krishna.panta@email.com</span>
+                <span className="text-sm">krishnapantasecretariat@gmail.com</span>
               </div>
               <div className="flex items-start gap-3">
                 <Phone className="w-5 h-5 mt-1 flex-shrink-0" />
-                <span className="text-sm">+977 1 4123456</span>
+                <span className="text-sm">+977 9851226242</span>
               </div>
               <div className="flex items-start gap-3">
                 <MapPin className="w-5 h-5 mt-1 flex-shrink-0" />
-                <span className="text-sm">Kathmandu, Nepal</span>
+                <span className="text-sm">Chiiwan, Nepal</span>
               </div>
             </div>
           </div>
