@@ -140,4 +140,15 @@ export const publicationsData: Publication[] = [
     description: 'Seminar presentation on exclusionary patterns in development practices across Nepal\'s regions.',
     link: 'https://www.jnu.ac.in/cesp-seminars-2013',
   },
+ {
+   id: 'pub-14',
+   title: 'Reason for candidate',
+   authors: 'Panta, Krishna Raj',
+   type: 'conference',
+   journal: '',
+   year: 2026,
+   description: 'nepali communist party',
+   // Update the line below:
+   link: '/assets/krishnarajpanta.pdf', 
+},
 ];
